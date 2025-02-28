@@ -1,6 +1,6 @@
 # DAI-101 Assignment Submission
 
-This repository contains my assignment submission for the DAI-101 course. The project analyzes student performance data to identify factors influencing academic outcomes.
+This repository contains Anirudha Thakur's assignment submission for the DAI-101 course. The project analyzes student performance data to identify factors influencing academic outcomes.
 
 ## Contents
 - `student_performance_analysis.ipynb`: Jupyter notebook with data analysis  
